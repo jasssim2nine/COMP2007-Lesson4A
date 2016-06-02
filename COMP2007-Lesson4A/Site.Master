@@ -24,7 +24,11 @@
         </asp:ContentPlaceHolder>
     </div>
     </form>
-
+    <footer class="navbar navbar-fixed-bottom alert alert-info">
+    <div class="container">
+        <p>&copy; Jasim Khan 2016</p>
+    </div>
+    </footer>
     <!-- JavaScript -->
     <script src="Scripts/jquery-2.2.3.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
